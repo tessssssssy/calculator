@@ -36,25 +36,25 @@ for (var i = 0; i < numberButtons.length; i++) {
 
 //PLUS
 plus.addEventListener("click", function() {
-  display.textContent = "";
+  //display.textContent = "";
   operator = "+";
 });
 
 //MINUS
 minus.addEventListener("click", function() {
-  display.textContent = "";
+  //display.textContent = "";
   operator = "-";
 });
 
 //MULTIPLY
 multiply.addEventListener("click", function() {
-  display.textContent = "";
+  //display.textContent = "";
   operator = "*";
 });
 
 //DIVIDE
 divide.addEventListener("click", function() {
-  display.textContent = "";
+  //display.textContent = "";
   operator = "/";
 });
 
