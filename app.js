@@ -39,7 +39,7 @@ plus.addEventListener("click", function() {
   //display.textContent = "";
   operator = "+";
 });
-
+//MAKING CHANGES ON SUBTRACT BRANCH!
 //MINUS
 minus.addEventListener("click", function() {
   //display.textContent = "";
